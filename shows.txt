@@ -1,0 +1,35 @@
+Sources:
+https://en.wikipedia.org/wiki/ICarly
+https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air
+https://en.wikipedia.org/wiki/Three's_Company
+https://en.wikipedia.org/wiki/Friends
+https://en.wikipedia.org/wiki/All_That
+https://en.wikipedia.org/wiki/Breaking_Bad
+https://en.wikipedia.org/wiki/Game_of_Thrones
+https://en.wikipedia.org/wiki/Lost_(TV_series)
+https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars
+https://en.wikipedia.org/wiki/The_Office_(American_TV_series)
+https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)
+*
+Icarly,Nickelodeon,Sitcom,6,2007,2012
+25 21 18 10 10 13
+The Fresh Prince of Bel-Air,NBC,Sitcom,6,1990,1996
+25 24 24 26 25 24
+Three's Company,ABC,Sitcom,8,1977,1984
+6 25 22 25 22 28 22 22
+Friends,NBC,Sitcom,10,1994,2004
+24 24 25 24 24 25 24 24 24 18
+All That,Nickelodeon,Sketch Comedy,11,1994,2005
+15 21 20 21 24 19 13 14 16 13 35
+Breaking Bad,AMC,Crime Drama,5,2008,2013
+7 13 13 13 16
+Game of Thrones,HBO,Fantasy Drama,8,2011,2019
+10 10 10 10 10 10 7 6
+Lost,ABC,Science Fiction,6,2004,2010
+25 24 23 14 17 18
+Star Wars: The Clone Wars,Cartoon Network,Science Fiction,7,2008,2020
+22 22 22 22 20 13 12
+The Office,NBC,Sitcom,9,2005,2013
+6 22 25 19 28 26 26 24 25
+Supernatural,The WB,Fantasy Drama,15,2005,2020
+22 22 16 22 22 22 23 23 23 23 23 23 23 20 20
